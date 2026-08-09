@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hikmet GEZMEN</h1>
-<h3 align="center">Software Engineer | Dynamics 365 & Power Platform Specialist</h3>
+<h3 align="center">Software Engineer | Dynamics 365 & Power Platform Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hikmetgezmen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hikmet-gezmen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hikmetgezmen.hg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -10,22 +10,22 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** specializing in **Microsoft Dynamics 365 (CE/CRM), Dataverse, and Power Platform** ecosystem[cite: 1]. With nearly 3 years of experience in enterprise application development, I specialize in bridging traditional backend engineering with low-code scalability[cite: 1].
+I am a **Software Engineer** specializing in **Microsoft Dynamics 365 (CE/CRM), Dataverse, and Power Platform** ecosystem. With nearly 3 years of experience in enterprise application development, I specialize in bridging traditional backend engineering with low-code scalability.
 
-- 💼 Currently working as a **Dynamics CRM Developer** at **VeriPark**[cite: 1].
-- 🏦 Played a key development role in launching **two large-scale enterprise banking applications** (Retail & Corporate Loan Origination Systems) into production (Go-Live)[cite: 1].
-- ⚡ Experienced in **C# Plugins, Custom Actions, Web API integrations, X++ customizations**, and **InRule decision engines**[cite: 1].
-- 🎨 Skilled in extending client-side logic using **TypeScript and JavaScript** for Model-Driven Apps[cite: 1].
-- 🛠️ Active practitioner of **Agile/Scrum, Git, Pull Requests, and CI/CD solution deployments**[cite: 1].
+- 💼 Currently working as a **Dynamics CRM Developer** at **VeriPark**.
+- 🏦 Played a key development role in launching **two large-scale enterprise banking applications** (Retail & Corporate Loan Origination Systems) into production (Go-Live).
+- ⚡ Experienced in **C# Plugins, Custom Actions, Web API integrations, X++ customizations**, and **InRule decision engines**.
+- 🎨 Skilled in extending client-side logic using **TypeScript and JavaScript** for Model-Driven Apps.
+- 🛠️ Active practitioner of **Agile/Scrum, Git, Pull Requests, and CI/CD solution deployments**.
 
 ---
 
 ### 💬 Ask Me About
 
-- **Dynamics 365 CE / Power Apps / Dataverse Architecture**[cite: 1]
-- **C# Server-Side Plugin Execution & Optimization**[cite: 1]
-- **TypeScript Client Scripting for Model-Driven Apps**[cite: 1]
-- **InRule Decision Engine Integration & Web API Services**[cite: 1]
+- **Dynamics 365 CE / Power Apps / Dataverse Architecture**
+- **C# Server-Side Plugin Execution & Optimization**
+- **TypeScript Client Scripting for Model-Driven Apps**
+- **InRule Decision Engine Integration & Web API Services**
 
 ---
 
