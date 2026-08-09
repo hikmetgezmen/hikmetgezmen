@@ -1,37 +1,61 @@
 <h1 align="center">Hi 👋, I'm Hikmet GEZMEN</h1>
-<h3 align="center">Jr. Software Engineer</h3>
+<h3 align="center">Software Engineer | Dynamics 365 & Power Platform Specialist</h3>
 
-Hello, I'm Hikmet GEZMEN. I am currently residing in Hatay, Turkey. I have completed my 4-year undergraduate education in Software Engineering at Manisa Celal BayarUniversity and dedicated myself to continuous self-improvement in the field of software development.Alongside my keen interest in technologies such as JavaScript, Node.js, MongoDb, and REST API, I am alsoactively learning technologies like Java, React, and C#. I have gained proficiency in desktop applicationdevelopment and design patterns using the C# programming language. Moreover, I possess knowledge in webdevelopment utilizing HTML, CSS, JS, C#, and SOA (Service-Oriented Architecture) applications. I also haveexperience in MSSQL database development. Additionally, I continue to enhance my skills individually inNode.js, ASP.NET MVC, TypeScript, and MongoDb. Through my work experiences, I have acquired familiaritywith teamwork and software development processes.
-
-- 🌱 I’m currently learning **NodeJs, JavaScript, React & Java**
-
-- 💬 Ask me about **NodeJs, JavaScript**
-
-- 📫 How to reach me **hikmetgezmen.hg@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hikmetgezmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hikmet-gezmen-bb372b222/"  height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/hikmetgezmen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hikmetgezmen.hg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
 
+I am a **Software Engineer** specializing in **Microsoft Dynamics 365 (CE/CRM), Dataverse, and Power Platform** ecosystem[cite: 1]. With nearly 3 years of experience in enterprise application development, I specialize in bridging traditional backend engineering with low-code scalability[cite: 1].
 
+- 💼 Currently working as a **Dynamics CRM Developer** at **VeriPark**[cite: 1].
+- 🏦 Played a key development role in launching **two large-scale enterprise banking applications** (Retail & Corporate Loan Origination Systems) into production (Go-Live)[cite: 1].
+- ⚡ Experienced in **C# Plugins, Custom Actions, Web API integrations, X++ customizations**, and **InRule decision engines**[cite: 1].
+- 🎨 Skilled in extending client-side logic using **TypeScript and JavaScript** for Model-Driven Apps[cite: 1].
+- 🛠️ Active practitioner of **Agile/Scrum, Git, Pull Requests, and CI/CD solution deployments**[cite: 1].
 
-<div><img style="height: %40; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hikmetgezmen"></img></div>
-<div><img style="height: %40; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmetgezmen"></div>
-                      
-                      
-  
+---
+
+### 💬 Ask Me About
+
+- **Dynamics 365 CE / Power Apps / Dataverse Architecture**[cite: 1]
+- **C# Server-Side Plugin Execution & Optimization**[cite: 1]
+- **TypeScript Client Scripting for Model-Driven Apps**[cite: 1]
+- **InRule Decision Engine Integration & Web API Services**[cite: 1]
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Microsoft & D365 Ecosystem -->
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="D365" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <br/>
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br/>
+  <!-- Databases & APIs -->
+  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST%20API-0055E6?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hikmetgezmen&show_icons=true&theme=radial&hide_border=true" alt="Hikmet's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmetgezmen&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
