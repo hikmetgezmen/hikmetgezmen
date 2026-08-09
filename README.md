@@ -69,6 +69,6 @@ I am a **Software Engineer** specializing in **Microsoft Dynamics 365 (CE/CRM), 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hikmetgezmen&show_icons=true&theme=radial&hide_border=true" alt="Hikmet's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmetgezmen&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hikmetgezmen&show_icons=true&theme=radial&hide_border=true" alt="Hikmet's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hikmetgezmen&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
 </p>
